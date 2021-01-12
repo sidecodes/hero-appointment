@@ -1,0 +1,50 @@
+[
+    {
+        "heroName": "Batman",
+        "ownerName": "DC Comics",
+        "aptNotes": "Batman is up for his next animated movie.",
+        "aptDate": "2021-10-24 13:30"
+    },
+
+    {
+        "heroName": "Superman",
+        "ownerName": "DC Comics",
+        "aptNotes": "When does he gets a good movie?",
+        "aptDate": "2021-01-23 15:30"
+    },
+
+    {
+        "heroName": "Wonderwoman",
+        "ownerName": "DC Comics",
+        "aptNotes": "The next movie would apprantly be more interesting than the last one.",
+        "aptDate": "2021-02-20 12:30"
+    },
+
+    {
+        "heroName": "Iron Man",
+        "ownerName": "Marvel",
+        "aptNotes": "Can we bring him back somehow or his era is over?",
+        "aptDate": "2021-03-23 16:30"
+    },
+
+    {
+        "heroName": "Green Arrow",
+        "ownerName": "DC Comics",
+        "aptNotes": "He needs to team up with the justice league now!",
+        "aptDate": "2021-02-24 17:30"
+    },
+
+    {
+        "heroName": "Spider Man",
+        "ownerName": "Sony",
+        "aptNotes": "He is doing fine! Just a friendly visit from the friendly neigbourhood friend.",
+        "aptDate": "2021-03-15 14:30"
+    },
+
+    {
+        "heroName": "Hulk",
+        "ownerName": "Marvel",
+        "aptNotes": "He needs a stand alone movie for sure, last one was a decade ago.",
+        "aptDate": "2021-05-26 14:30"
+    }
+]
