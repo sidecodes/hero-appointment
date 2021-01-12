@@ -1,0 +1,37 @@
+.add-appointment .card-body {
+  display: none;
+}
+
+.apt-addheading {
+  cursor: pointer;
+  user-select: none;
+}
+
+.appointment-list {
+  font-size: 1.1em;
+}
+
+.appointment-list .hero-item {
+  border-bottom: none;
+}
+
+.appointment-list .hero-name {
+  font-weight: 600;
+  color: black;
+  font-size: 1.3em;
+  line-height: 100%;
+}
+
+.appointment-list .label-item {
+  font-weight: 600;
+  color: #667b82
+}
+
+.appointment-list .apt-notes {
+  line-height: 120%;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: #a9acb2;
+}
