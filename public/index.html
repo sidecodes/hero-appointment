@@ -36,7 +36,11 @@
 
     <footer class="container d-flex text-white py-2">
       <p>
-        All contents &copy; 2021
+        All contents &copy; <p id="year"></p> 
+        <script>
+          var d = new Date();
+          document.getElementById("year").innerHTML = d.getFullYear();
+        </script>
         <a href="#">Hero United Portal</a>. No rights reserved.
       </p>
       <div class="ml-auto">
